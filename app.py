@@ -31,7 +31,7 @@ st.write(
 # LOAD DATA
 # --------------------------------
 
-df = pd.read_csv("data/airline_safety.csv")
+df = pd.read_csv("airline_safety.csv")
 
 # --------------------------------
 # FEATURE ENGINEERING
